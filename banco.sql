@@ -7,6 +7,7 @@ CREATE TABLE tbl_publisher (
     publisher_PublisherAddress VARCHAR(255),
     publisher_PublisherPhone VARCHAR(50)
 );
+-- comments
 
 CREATE TABLE tbl_book (
     book_BookID INT PRIMARY KEY AUTO_INCREMENT,
